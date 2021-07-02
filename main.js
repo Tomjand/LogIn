@@ -1,2 +1,7 @@
 console.log("test1")
-const asd = 1;
+
+//class userStore {}
+//class userCheck - emailOK, userNameOk
+//getUSerFromDB
+//isLogin
+//noLogin
